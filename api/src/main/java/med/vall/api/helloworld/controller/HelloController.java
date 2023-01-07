@@ -1,4 +1,4 @@
-package med.vall.api.controller;
+package med.vall.api.helloworld.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
